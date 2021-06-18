@@ -1,2 +1,5 @@
 # aduino_wire-game
-The Arduino source code and schematic diagram, for mini project  
+
+This repository holds the source code and skematic diagram for a small game.
+
+Youtube video:
